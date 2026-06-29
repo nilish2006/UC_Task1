@@ -61,9 +61,9 @@ UC_Task1/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   ├── server.js
+│   ├─ helpers/
+│ 
+│   ├── index.js
 │   └── package.json
 │
 └── README.md
